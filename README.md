@@ -2,9 +2,14 @@
 
 The application was built as a project for a responsive web design with FreecodeCamp.
 
-## Feature
+![cat photo app - Tanimara Elias Santos](assets/images/cat-photo-app-showcase.gif)
 
--
+## Features
+
+- Images, lists and links for cat related content
+- Form with radio, checkbox inputs
+- Input text box
+- Attributes added to form elements to facilitate reading through screen readers
 
 ## Technologies
 
