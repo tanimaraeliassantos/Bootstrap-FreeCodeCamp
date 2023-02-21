@@ -14,8 +14,6 @@ The application was built as a project for a responsive web design with Freecode
 ## Technologies
 
 - HTML
-- CSS
-- JavaScript
 
 ## Start the App
 
