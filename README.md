@@ -1,6 +1,6 @@
 # CAT PHOTOS APP
 
-The application was built as a project for a responsive web design with FreecodeCamp. It features cat related content :smile_cat: and a form with different types of input.
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features cat related content :smile_cat: and a form with different types of input.
 
 ![cat photo app - Tanimara Elias Santos](assets/images/cat-photo-app-showcase.gif)
 
